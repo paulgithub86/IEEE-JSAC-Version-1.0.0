@@ -117,7 +117,7 @@ pip install numpy pandas scipy sympy tqdm tensorflow cirq matplotlib openpyxl
 
 ## 6) Scope / modeling disclaimer 🧾
 
-This is a **system-level prototype** aligned with the paper. Full waveform-level RF PHY and detailed QKD optics are **not** simulated; their effects are represented via controlled abstractions (e.g., finite-blocklength approximation, free-space path loss, thermal noise, simplified interference/self-interference terms, and a BB84-inspired key-rate formula) to keep execution lightweight for convergence studies.
+This is a **system-level prototype** aligned with the paper. Full waveform-level RF PHY and detailed QKD optics are **not** simulated in this given code. However, their effects are represented via controlled abstractions (e.g., finite-blocklength approximation, free-space path loss, thermal noise, simplified interference/self-interference terms, and a BB84-inspired key-rate formula) to keep execution lightweight for convergence studies.
 
 ---
 
