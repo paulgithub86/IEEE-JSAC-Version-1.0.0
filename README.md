@@ -3,18 +3,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 
-> ✅ **MIT Licensed.** If you use this code in academic work, please **cite the paper** and **this repository**.
+> ✅ **MIT Licensed.** If you use this code in academic work, please **cite the paper** ✅️.
 
 ---
 
 ## ⚠️ Important safety / liability warning
 
 This software is provided **“as is”**, without warranty of any kind (see `LICENSE`).  
-By running any scripts in this repository, you acknowledge that execution may consume significant CPU/GPU/RAM resources and may cause crashes, freezes, data loss, or other unexpected behavior depending on your environment.
 
-**You are solely responsible for how you run this code.** The authors/contributors are **not responsible** for any damage, malfunction, loss of data, loss of productivity, hardware failure, or other issues (direct or indirect) that may occur during installation or execution.
+By running any scripts in this repository, you acknowledge that execution may consume significant CPU/GPU/RAM resources and may cause crashes, freezes, data loss, or other unexpected behavior depending on your environment.⚠️
 
-> **Practical advice:** run inside a virtual environment or container, and avoid running on production machines.
+**You are solely responsible for how you run this code.** The authors/contributors are **not responsible** for any damage, malfunction, loss of data, loss of productivity, hardware failure, or other issues (direct or indirect) that may occur during installation or execution.⚠️
+
+> 🔆 **Practical advice:** run inside a virtual environment or container, and avoid running on production machines.
 
 ---
 
@@ -128,7 +129,7 @@ This project is released under the **MIT License** (see `LICENSE`).
 
 ## 8) Citation 🧷
 
-### BibTeX (update with final volume/pages/DOI when available)
+### BibTeX of the main Article 🌸
 ```bibtex
 @article{PAUL_JSAC_QFDRL_2026,
   title   = {Large AI Model Driven Quantum-Enhanced Transformer-VQC Federated DRL for Privacy Preservation in Vehicular Networks},
@@ -143,5 +144,4 @@ This project is released under the **MIT License** (see `LICENSE`).
 
 ## 9) Contact ✉️
 
-**Paul**  
 Email: `apaul@ieee.org`
