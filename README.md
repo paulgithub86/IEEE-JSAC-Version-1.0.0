@@ -131,13 +131,17 @@ This project is released under the **MIT License** (see `LICENSE`).
 
 ### BibTeX of the main Article 🌸
 ```bibtex
-@article{PAUL_JSAC_QFDRL_2026,
-  title   = {Large AI Model Driven Quantum-Enhanced Transformer-VQC Federated DRL for Privacy Preservation in Vehicular Networks},
-  author  = {Anal Paul and Keshav Singh},
-  journal = {IEEE Journal on Selected Areas in Communications},
-  year    = {2026},
-  note    = {Code: this repository},
-}
+@ARTICLE{11314201,
+  author={Paul, Anal and Singh, Keshav},
+  journal={IEEE Journal on Selected Areas in Communications}, 
+  title={Large AI Model Driven Quantum-Enhanced Transformer-VQC Federated DRL for Privacy Preservation in Vehicular Networks}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Quantum computing;Resource management;6G mobile communication;Vehicle dynamics;Privacy;Computational modeling;Dynamic scheduling;Foundation models;Ultra reliable low latency communication;Transformers;Quantum computing;Quantum machine learning;intelligent vehicular networks;federated learning;deep reinforcement learning;privacy-preserving;distributed learning},
+  doi={10.1109/JSAC.2025.3647821}}
+
 ```
 
 ---
