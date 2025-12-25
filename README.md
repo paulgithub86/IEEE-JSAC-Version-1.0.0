@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 
 > ✅ **MIT Licensed.** If you use this code in academic work, please **cite the paper** ✅️.
-
+>- 📄 Paper: [IEEE Xplore (Doc 11314201)](https://ieeexplore.ieee.org/document/11314201)
 ---
 
 ## ⚠️ Important safety / liability warning
